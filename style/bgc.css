@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bcc-white{
+    background-color: white;
+}
+
+.bcc-trans{
+    background-color: transparent;
+}
+
+.bcc-blue{
+    background-color: blue;
+}
+
+.bcc-red{
+    background-color: rgb(230, 47, 47);
+}
+
+/* ///////////////////////////////////////////////////////// */
+
+.col-blue{
+    color: rgb(91, 91, 238);
+}
+
+hr{
+    border-color: rgb(166, 177, 226);
+    box-shadow: 2px 2px 8px rgba(86, 136, 202, 0.5)
+}
+
+.img-présent{
+    background: url(../assets/img/mijerca.jpg);
+    background-size: cover;
+}
+

@@ -1,0 +1,17 @@
+.list-style-none{
+    list-style: none;
+}
+
+h1{
+    color: rgb(230, 47, 47);
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 2em;
+}
+
+h2{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 5px;
+}

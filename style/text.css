@@ -1,0 +1,24 @@
+.col-txt-blue{
+    color: rgb(26, 16, 172);
+}
+
+.col-txt-white{
+    color: white;
+}
+
+.font-sz-10px{
+    font-size: 10px;
+}
+
+
+.let-spac-1px{
+    letter-spacing: 1.5px;
+}
+
+.font-w-900{
+    font-weight: 900;
+}
+
+.txt-uper{
+    text-transform: uppercase;
+}

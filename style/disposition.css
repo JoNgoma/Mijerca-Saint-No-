@@ -1,0 +1,50 @@
+.d-none {
+    display: none;
+}
+
+.d-f {
+    display: flex;
+}
+
+.f-dir-col{
+    flex-direction: column;
+}
+
+.jus-c-c {
+    justify-content: center;
+}
+
+.jus-c-sb {
+    justify-content: space-between;
+}
+
+.ali-i-c {
+    align-items: center;
+}
+
+/* .......................................... */
+
+.positon-relative{
+    position: relative;
+}
+
+.positon-absolute{
+    position: absolute;
+}
+
+/* ////////////////////////////////////////////////////////// */
+
+.bottom{
+    bottom: -1.5em;
+}
+
+.left{
+    left: 2em;
+}
+
+.bottom-5px{
+    bottom: 5px;
+}
+.right{
+    right: 5px;
+}
